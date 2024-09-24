@@ -23,5 +23,5 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
-flask
+Flask
 gunicorn
